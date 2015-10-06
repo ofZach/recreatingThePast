@@ -1,4 +1,4 @@
-# recreatingThePast
+# Recreating the Past
 
 recreating the past / sfpc 2015
 
